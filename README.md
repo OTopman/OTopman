@@ -68,6 +68,10 @@ I am a Backend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OTopman&layout=donut-vertical&theme=vision-friendly-dark&langs_count=10)](https://github.com/OTOpman)
 
+---
+
+[![Ranks](https://github-profile-trophy.vercel.app/?username=OTopman&column=4&margin-w=15&margin-h=15&theme=dark_lover)](https://github.com/OTOpman)
+
 <!-- --- -->
 
 <!-- ### :writing_hand: Blog Posts : -->
